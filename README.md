@@ -4,7 +4,7 @@
 
 https://github.com/dimarcolino/One-Hit-Duel/assets/142554665/9935e787-1384-41aa-bded-05592b959be9
 
-## You have to charge your attack for at least 0.7 seconds for it to go off, otherwise it will be canceled. The maximum charging time is 2 seconds and the attack will go off after the timer, this prevents some abuse of waiting the perfect time or the enemy entering in you hitbox range. You can also charge while in ground and air.
+## You have to charge your attack for at least 0.7 seconds for it to go off, otherwise it will be canceled. The maximum charging time is 2 seconds and the attack will go off after the timer, this prevents some abuse of waiting the perfect time when the enemy enters your hitbox range. You can also charge while in ground and air.
 
 https://github.com/dimarcolino/One-Hit-Duel/assets/142554665/2a322cf2-6d83-41ce-a67f-38cf20dea2b2
 
