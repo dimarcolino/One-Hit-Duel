@@ -16,5 +16,5 @@ https://github.com/dimarcolino/One-Hit-Duel/assets/142554665/8eb190b5-cd8e-4796-
 
 https://github.com/dimarcolino/One-Hit-Duel/assets/142554665/18219dff-a215-42ee-beef-74190884ede3
 
-# There's still plenty to do but i'm having fun working on this project. There's still a TON to learn.
+# There's still plenty to do, but i'm having fun working on this project. There's still a TON to learn.
 
