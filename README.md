@@ -8,7 +8,7 @@ https://github.com/dimarcolino/One-Hit-Duel/assets/142554665/9935e787-1384-41aa-
 
 https://github.com/dimarcolino/One-Hit-Duel/assets/142554665/2a322cf2-6d83-41ce-a67f-38cf20dea2b2
 
-## You can also block your enemy attackm, but you will move slower. I will probably add a stamina bar so you can't be invulnerable for the whole time.
+## You can also block your enemy attack, but you will move slower. I will probably add a stamina bar so you can't be invulnerable for the whole time.
 
 https://github.com/dimarcolino/One-Hit-Duel/assets/142554665/8eb190b5-cd8e-4796-bc59-e9ebea7852ad
 
